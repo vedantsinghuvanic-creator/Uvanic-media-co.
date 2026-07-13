@@ -1,0 +1,6 @@
+{
+  "name": "FixNow",
+  "description": "On-demand home services platform matching customers with electricians, plumbers, carpenters, cleaners, and more, complete with AI-powered diagnostics, chatbot assistance, and dual professional/customer workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
